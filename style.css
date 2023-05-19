@@ -1,0 +1,24 @@
+body{
+    background-size: cover;
+    background-image: url(https://i.kinja-img.com/gawker-media/image/upload/t_original/is9l7titozic2s3xpqjk.gif) ;
+}
+#table{
+    margin-top: 100px;
+    background-color: rgba(106, 140, 147, 0.547);
+    width: 400px;
+    height: 550px;
+    border-radius: 50px;
+}
+#icon{
+    width: 150px;
+    height: 150px;
+    margin-left: 100px;
+    margin-top: 20px;
+}
+/* #inp{
+    background-color: rgba(128, 128, 128, 0.725);
+} */
+.img{
+    width: 50px;
+    height: 50px;
+}
